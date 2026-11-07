@@ -1,0 +1,23 @@
+
+Chunk-level eval on 26 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.769
+Full@1 (all gold phrases found): 0.692
+MRR (chunk-level)              : 0.769
+
+Failures (8):
+  Q8: What share of monthly income can go towards EMIs?
+     missing: ['must not exceed 50 percent']
+  Q11: When does someone from the bank first phone a customer who has not paid?
+     missing: ['A call is made on day 5']
+  Q18: What is the smallest part payment the bank will accept?
+     missing: ['minimum part payment is 3 times the EMI']
+  Q19: When can a borrower close the whole loan early?
+     missing: ['Foreclosure is allowed after 12 EMIs']
+  Q20: Is there a closing charge on a floating rate loan taken by an individual?
+     missing: ['No foreclosure charge applies for floating rate']
+  Q22: A customer is 65 days overdue. What stage are they in and what actions have already happened?
+     missing: ['From day 60 the account is classified as SMA-2', 'A call is made on day 5', 'From day 30 the account is classified as SMA-1']
+  Q25: What is the cap on EMI burden for a new loan, and how many EMIs must be paid before foreclosure?
+     missing: ['must not exceed 50 percent']
+  Q26: Which percentage-based charges does the bank levy on late payment and on early closure?
+     missing: ['foreclosure charge of 4 percent']

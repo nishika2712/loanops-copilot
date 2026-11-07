@@ -1,0 +1,11 @@
+
+Chunk-level eval on 26 answerable questions (top 2 chunks)
+Hit@2  (any gold phrase found) : 0.923
+Full@2 (all gold phrases found): 0.923
+MRR (chunk-level)              : 0.865
+
+Failures (2):
+  Q8: What share of monthly income can go towards EMIs?
+     missing: ['must not exceed 50 percent']
+  Q14: After how many days of non-payment does a loan become a non-performing asset?
+     missing: ['From day 90 the account becomes a Non-Performing Asset']

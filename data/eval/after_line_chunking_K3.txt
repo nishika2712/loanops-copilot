@@ -1,0 +1,13 @@
+
+Chunk-level eval on 26 answerable questions (top 3 chunks)
+Hit@3  (any gold phrase found) : 0.923
+Full@3 (all gold phrases found): 0.885
+MRR (chunk-level)              : 0.769
+
+Failures (3):
+  Q19: When can a borrower close the whole loan early?
+     missing: ['Foreclosure is allowed after 12 EMIs']
+  Q21: A borrower has paid 14 EMIs on a 24-month fixed rate loan and wants to close it. Is that allowed and what will it cost?
+     missing: ['foreclosure charge of 4 percent']
+  Q22: A customer is 65 days overdue. What stage are they in and what actions have already happened?
+     missing: ['From day 60 the account is classified as SMA-2', 'A call is made on day 5', 'From day 30 the account is classified as SMA-1']

@@ -1,0 +1,9 @@
+
+Chunk-level eval on 26 answerable questions (top 3 chunks)
+Hit@3  (any gold phrase found) : 0.962
+Full@3 (all gold phrases found): 0.962
+MRR (chunk-level)              : 0.878
+
+Failures (1):
+  Q14: After how many days of non-payment does a loan become a non-performing asset?
+     missing: ['From day 90 the account becomes a Non-Performing Asset']

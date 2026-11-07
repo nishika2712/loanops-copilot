@@ -1,0 +1,7 @@
+
+Chunk-level eval on 26 answerable questions (top 3 chunks)
+Hit@3  (any gold phrase found) : 1.000
+Full@3 (all gold phrases found): 1.000
+MRR (chunk-level)              : 0.878
+
+Failures (0):

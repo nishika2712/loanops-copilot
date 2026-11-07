@@ -1,0 +1,9 @@
+
+Chunk-level eval on 26 answerable questions (top 2 chunks)
+Hit@2  (any gold phrase found) : 0.962
+Full@2 (all gold phrases found): 0.962
+MRR (chunk-level)              : 0.865
+
+Failures (1):
+  Q8: What share of monthly income can go towards EMIs?
+     missing: ['must not exceed 50 percent']

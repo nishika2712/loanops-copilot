@@ -1,0 +1,21 @@
+
+Chunk-level eval on 26 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.808
+Full@1 (all gold phrases found): 0.731
+MRR (chunk-level)              : 0.808
+
+Failures (7):
+  Q8: What share of monthly income can go towards EMIs?
+     missing: ['must not exceed 50 percent']
+  Q14: After how many days of non-payment does a loan become a non-performing asset?
+     missing: ['From day 90 the account becomes a Non-Performing Asset']
+  Q20: Is there a closing charge on a floating rate loan taken by an individual?
+     missing: ['No foreclosure charge applies for floating rate']
+  Q22: A customer is 65 days overdue. What stage are they in and what actions have already happened?
+     missing: ['From day 60 the account is classified as SMA-2', 'A call is made on day 5', 'From day 30 the account is classified as SMA-1']
+  Q23: A salaried applicant earns 30,000 a month, has 6 months of experience and a score of 720. Do they meet the policy?
+     missing: ['at least 1 year of total work experience']
+  Q25: What is the cap on EMI burden for a new loan, and how many EMIs must be paid before foreclosure?
+     missing: ['must not exceed 50 percent']
+  Q26: Which percentage-based charges does the bank levy on late payment and on early closure?
+     missing: ['foreclosure charge of 4 percent']

@@ -1,0 +1,21 @@
+[fixed] total chunks: 6
+  K=1
+Hit@1  (any gold phrase found) : 0.769
+Full@1 (all gold phrases found): 0.692
+  K=3
+Hit@3  (any gold phrase found) : 1.000
+Full@3 (all gold phrases found): 1.000
+[paragraph] total chunks: 6
+  K=1
+Hit@1  (any gold phrase found) : 0.808
+Full@1 (all gold phrases found): 0.731
+  K=3
+Hit@3  (any gold phrase found) : 0.962
+Full@3 (all gold phrases found): 0.962
+[line] total chunks: 18
+  K=1
+Hit@1  (any gold phrase found) : 0.654
+Full@1 (all gold phrases found): 0.615
+  K=3
+Hit@3  (any gold phrase found) : 0.923
+Full@3 (all gold phrases found): 0.885

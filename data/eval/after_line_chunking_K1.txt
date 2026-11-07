@@ -1,0 +1,27 @@
+
+Chunk-level eval on 26 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.654
+Full@1 (all gold phrases found): 0.615
+MRR (chunk-level)              : 0.654
+
+Failures (10):
+  Q3: How long must a salaried applicant have been working?
+     missing: ['at least 1 year of total work experience']
+  Q6: What happens to an applicant whose credit score is 670?
+     missing: ['between 650 and 699 go to manual review']
+  Q7: At what score is an application rejected without any review?
+     missing: ['below 650 are rejected']
+  Q13: Who gets involved when an account reaches 60 days overdue?
+     missing: ['From day 60 the account is classified as SMA-2']
+  Q14: After how many days of non-payment does a loan become a non-performing asset?
+     missing: ['From day 90 the account becomes a Non-Performing Asset']
+  Q19: When can a borrower close the whole loan early?
+     missing: ['Foreclosure is allowed after 12 EMIs']
+  Q21: A borrower has paid 14 EMIs on a 24-month fixed rate loan and wants to close it. Is that allowed and what will it cost?
+     missing: ['Foreclosure is allowed after 12 EMIs', 'foreclosure charge of 4 percent']
+  Q22: A customer is 65 days overdue. What stage are they in and what actions have already happened?
+     missing: ['From day 60 the account is classified as SMA-2', 'A call is made on day 5', 'From day 30 the account is classified as SMA-1']
+  Q25: What is the cap on EMI burden for a new loan, and how many EMIs must be paid before foreclosure?
+     missing: ['must not exceed 50 percent', 'Foreclosure is allowed after 12 EMIs']
+  Q26: Which percentage-based charges does the bank levy on late payment and on early closure?
+     missing: ['foreclosure charge of 4 percent']
