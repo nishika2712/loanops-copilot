@@ -1,0 +1,8 @@
+[vector filter=0] K=1 n=22  Hit@1=0.773  Full@1=0.727  MRR=0.773  p50=6ms p95=9ms
+[hybrid filter=0] K=1 n=22  Hit@1=0.773  Full@1=0.773  MRR=0.773  p50=6ms p95=8ms
+[rerank filter=0] K=1 n=22  Hit@1=0.909  Full@1=0.864  MRR=0.909  p50=23ms p95=31ms
+[rerank filter=1] K=1 n=22  Hit@1=1.000  Full@1=0.955  MRR=1.000  p50=23ms p95=28ms
+[vector filter=0] K=3 n=22  Hit@3=1.000  Full@3=1.000  MRR=0.879  p50=5ms p95=7ms
+[hybrid filter=0] K=3 n=22  Hit@3=1.000  Full@3=0.955  MRR=0.871  p50=5ms p95=6ms
+[rerank filter=0] K=3 n=22  Hit@3=1.000  Full@3=1.000  MRR=0.955  p50=30ms p95=38ms
+[rerank filter=1] K=3 n=22  Hit@3=1.000  Full@3=1.000  MRR=1.000  p50=30ms p95=34ms
