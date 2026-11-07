@@ -1,0 +1,8 @@
+[hybrid filter=0] K=1 n=53  Hit@1=0.811  Full@1=0.774  MRR=0.811  p50=9ms p95=12ms
+[hybrid filter=0] K=3 n=53  Hit@3=0.962  Full@3=0.943  MRR=0.877  p50=9ms p95=13ms
+[rerank filter=0] K=1 n=53  Hit@1=0.887  Full@1=0.830  MRR=0.887  p50=33ms p95=39ms
+[rerank filter=0] K=3 n=53  Hit@3=0.981  Full@3=0.962  MRR=0.934  p50=22ms p95=27ms
+[hybrid filter=1] K=1 n=53  Hit@1=0.736  Full@1=0.679  MRR=0.736  p50=9ms p95=13ms
+[hybrid filter=1] K=3 n=53  Hit@3=0.943  Full@3=0.925  MRR=0.830  p50=6ms p95=9ms
+[rerank filter=1] K=1 n=53  Hit@1=0.906  Full@1=0.849  MRR=0.906  p50=22ms p95=27ms
+[rerank filter=1] K=3 n=53  Hit@3=0.981  Full@3=0.962  MRR=0.943  p50=22ms p95=27ms

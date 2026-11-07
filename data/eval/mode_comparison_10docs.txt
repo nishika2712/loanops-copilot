@@ -1,0 +1,12 @@
+[vector] K=1 n=53  Hit@1=0.660  Full@1=0.604  MRR=0.660
+[vector] K=3 n=53  Hit@3=0.868  Full@3=0.830  MRR=0.758
+[vector] K=5 n=53  Hit@5=0.962  Full@5=0.962  MRR=0.781
+[bm25] K=1 n=53  Hit@1=0.698  Full@1=0.660  MRR=0.698
+[bm25] K=3 n=53  Hit@3=0.925  Full@3=0.887  MRR=0.796
+[bm25] K=5 n=53  Hit@5=0.943  Full@5=0.943  MRR=0.799
+[hybrid] K=1 n=53  Hit@1=0.811  Full@1=0.774  MRR=0.811
+[hybrid] K=3 n=53  Hit@3=0.962  Full@3=0.943  MRR=0.877
+[hybrid] K=5 n=53  Hit@5=0.981  Full@5=0.981  MRR=0.881
+[rerank] K=1 n=53  Hit@1=0.887  Full@1=0.830  MRR=0.887
+[rerank] K=3 n=53  Hit@3=0.981  Full@3=0.962  MRR=0.934
+[rerank] K=5 n=53  Hit@5=0.981  Full@5=0.981  MRR=0.934
