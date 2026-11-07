@@ -1,4 +1,4 @@
-# Prepayment and Foreclosure Policy
+# Personal Loan Prepayment and Foreclosure Policy
 
 Part prepayment is allowed after 6 EMIs have been paid. The minimum part payment is 3 times the EMI.
 Foreclosure is allowed after 12 EMIs.

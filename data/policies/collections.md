@@ -1,5 +1,7 @@
 # Collections and Delinquency Policy
 
+Version 1.0. Effective 1 April 2025. Superseded by Version 2.0 on 1 January 2026.
+
 An account becomes delinquent on the first day after a missed EMI due date.
 A reminder SMS is sent on day 1. A call is made on day 5.
 

@@ -1,0 +1,49 @@
+
+Chunk-level eval on 53 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.660
+Full@1 (all gold phrases found): 0.604
+MRR (chunk-level)              : 0.660
+
+Failures (21):
+  Q8: What share of monthly income can go towards EMIs for a personal loan?
+     missing: ['must not exceed 50 percent']
+  Q14: After how many days of non-payment does a loan become a non-performing asset?
+     missing: ['From day 90 the account becomes a Non-Performing Asset']
+  Q15: What penalty is charged on overdue amounts?
+     missing: ['late payment fee of 3 percent per month']
+  Q16: Who has to approve a restructuring request from a customer in hardship?
+     missing: ['regional credit head']
+  Q18: What is the smallest part payment the bank will accept for a personal loan?
+     missing: ['minimum part payment is 3 times the EMI']
+  Q19: When can a borrower close the whole loan early for a personal loan?
+     missing: ['Foreclosure is allowed after 12 EMIs']
+  Q20: Is there a closing charge on a floating rate loan taken by an individual for a personal loan?
+     missing: ['No foreclosure charge applies for floating rate']
+  Q22: A customer is 65 days overdue. What stage are they in and what actions have already happened?
+     missing: ['From day 60 the account is classified as SMA-2', 'A call is made on day 3', 'From day 30 the account is classified as SMA-1']
+  Q25: What is the cap on EMI burden for a new loan, and how many EMIs must be paid before foreclosure for a personal loan?
+     missing: ['must not exceed 50 percent']
+  Q26: Which percentage-based charges does the bank levy on late payment and on early closure for a personal loan?
+     missing: ['late payment fee of 3 percent per month', 'foreclosure charge of 4 percent']
+  Q33: How much monthly salary is needed for a home loan?
+     missing: ['minimum monthly income of INR 40,000']
+  Q34: What share of the property value can the bank finance?
+     missing: ['80 percent of the property value']
+  Q36: Is there a closing charge on a fixed rate home loan?
+     missing: ['foreclosure charge of 2 percent applies']
+  Q38: What is the smallest part payment on a home loan?
+     missing: ['minimum part payment is 5 times the EMI']
+  Q40: Is there a closing charge on a fixed rate personal loan under 3 years old?
+     missing: ['foreclosure charge of 4 percent']
+  Q41: How many days after a missed EMI does the bank first call the customer under the current policy?
+     missing: ['A call is made on day 3']
+  Q42: When did the current collections policy take effect?
+     missing: ['Effective 1 January 2026']
+  Q43: What late fee rate applied under the older collections policy?
+     missing: ['late payment fee of 2 percent per month']
+  Q49: Which extra papers does a home loan applicant provide?
+     missing: ['property title documents']
+  Q53: Compare the minimum credit score for a personal loan and a home loan.
+     missing: ['minimum CIBIL score for approval is 700']
+  Q54: How many EMIs must be paid before foreclosure for a personal loan versus a home loan?
+     missing: ['Foreclosure is allowed after 6 EMIs']

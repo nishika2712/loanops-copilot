@@ -1,0 +1,48 @@
+[fixed] total chunks: 21
+  K=1
+Chunk-level eval on 53 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.679
+Full@1 (all gold phrases found): 0.585
+MRR (chunk-level)              : 0.679
+  K=3
+Chunk-level eval on 53 answerable questions (top 3 chunks)
+Hit@3  (any gold phrase found) : 0.925
+Full@3 (all gold phrases found): 0.868
+MRR (chunk-level)              : 0.792
+  K=5
+Chunk-level eval on 53 answerable questions (top 5 chunks)
+Hit@5  (any gold phrase found) : 0.943
+Full@5 (all gold phrases found): 0.943
+MRR (chunk-level)              : 0.796
+[paragraph] total chunks: 19
+  K=1
+Chunk-level eval on 53 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.660
+Full@1 (all gold phrases found): 0.604
+MRR (chunk-level)              : 0.660
+  K=3
+Chunk-level eval on 53 answerable questions (top 3 chunks)
+Hit@3  (any gold phrase found) : 0.868
+Full@3 (all gold phrases found): 0.830
+MRR (chunk-level)              : 0.758
+  K=5
+Chunk-level eval on 53 answerable questions (top 5 chunks)
+Hit@5  (any gold phrase found) : 0.962
+Full@5 (all gold phrases found): 0.962
+MRR (chunk-level)              : 0.781
+[line] total chunks: 56
+  K=1
+Chunk-level eval on 53 answerable questions (top 1 chunks)
+Hit@1  (any gold phrase found) : 0.604
+Full@1 (all gold phrases found): 0.585
+MRR (chunk-level)              : 0.604
+  K=3
+Chunk-level eval on 53 answerable questions (top 3 chunks)
+Hit@3  (any gold phrase found) : 0.887
+Full@3 (all gold phrases found): 0.830
+MRR (chunk-level)              : 0.730
+  K=5
+Chunk-level eval on 53 answerable questions (top 5 chunks)
+Hit@5  (any gold phrase found) : 0.906
+Full@5 (all gold phrases found): 0.868
+MRR (chunk-level)              : 0.734
