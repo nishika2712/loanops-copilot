@@ -1,0 +1,26 @@
+{"id":101,"type":"direct","question":"What is the youngest age at which someone can get a home loan?","gold_phrases":["between 23 and 65 years"]}
+{"id":102,"type":"direct","question":"How many years of ITR returns must a business owner show for a home loan?","gold_phrases":["3 years of ITR filing"]}
+{"id":103,"type":"direct","question":"What is the minimum work history for a salaried person applying for a home loan?","gold_phrases":["at least 2 years of total work experience"]}
+{"id":104,"type":"direct","question":"If someone's credit score is 720, what happens to their home loan application?","gold_phrases":["between 700 and 749 go to manual review"]}
+{"id":105,"type":"direct","question":"A customer's score is 640 and they want a personal loan. What does the bank do?","gold_phrases":["below 650 are rejected automatically"]}
+{"id":106,"type":"direct","question":"How soon after a missed payment does the bank send a text message to the customer?","gold_phrases":["A reminder SMS is sent on day 1"]}
+{"id":107,"type":"direct","question":"At what stage is an overdue account handed to the field team?","gold_phrases":["escalated to the field collections team"]}
+{"id":108,"type":"direct","question":"What was the late fee under Version 1.0 of the collections policy?","gold_phrases":["late payment fee of 2 percent per month"]}
+{"id":109,"type":"direct","question":"Since when does the revised collections policy apply?","gold_phrases":["Effective 1 January 2026"]}
+{"id":110,"type":"direct","question":"When can a home loan borrower start making part prepayments?","gold_phrases":["Part prepayment is allowed at any time after the first EMI"]}
+{"id":111,"type":"direct","question":"How long does the bank take to issue a foreclosure statement for a home loan?","gold_phrases":["issued within 5 working days"]}
+{"id":112,"type":"direct","question":"What is the longest period I can take a personal loan for?","gold_phrases":["maximum personal loan tenure is 5 years"]}
+{"id":113,"type":"direct","question":"What is the smallest personal loan the bank gives?","gold_phrases":["minimum personal loan amount is INR 50,000"]}
+{"id":114,"type":"direct","question":"What extra spread is charged on a home loan if the applicant's score is under 750?","gold_phrases":["spread of 3.25 percent"]}
+{"id":115,"type":"direct","question":"Which ID documents does the bank accept?","gold_phrases":["Accepted identity proofs are Aadhaar, passport, voter ID and driving licence"]}
+{"id":116,"type":"direct","question":"Is a PAN card required to apply?","gold_phrases":["PAN card is mandatory"]}
+{"id":117,"type":"direct","question":"Within how many working days does the branch manager resolve a first-level complaint?","gold_phrases":["within 7 working days"]}
+{"id":118,"type":"direct","question":"How long does the regional grievance officer take to respond?","gold_phrases":["responds within 15 working days"]}
+{"id":119,"type":"direct","question":"What is the lowest amount a person can borrow to buy a house?","gold_phrases":["minimum home loan amount is INR 10 lakh"]}
+{"id":120,"type":"direct","question":"How is the personal loan interest rate decided?","gold_phrases":["based on the CIBIL score of the applicant"]}
+{"id":121,"type":"cross_doc","question":"What are the age limits for personal loans and home loans?","gold_phrases":["between 21 and 60 years","between 23 and 65 years"]}
+{"id":122,"type":"multi_fact","question":"What are the maximum tenures for personal and home loans?","gold_phrases":["maximum personal loan tenure is 5 years","maximum home loan tenure is 30 years"]}
+{"id":123,"type":"unanswerable","question":"Does the bank charge a processing fee for personal loans?","gold_phrases":[]}
+{"id":124,"type":"unanswerable","question":"Can I get a loan against my property?","gold_phrases":[]}
+{"id":125,"type":"unanswerable","question":"Is there a moratorium before the first EMI?","gold_phrases":[]}
+{"id":126,"type":"unanswerable","question":"Can I change my EMI date?","gold_phrases":[]}

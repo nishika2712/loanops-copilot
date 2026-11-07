@@ -5,7 +5,7 @@ K = int(os.getenv("K", "3"))
 MODE = os.getenv("MODE", "vector")
 FILTER = os.getenv("FILTER", "0")
 norm = lambda s: re.sub(r"\s+", " ", s).lower()
-questions = [json.loads(l) for l in open("data/eval/questions.jsonl")]
+questions = [json.loads(l) for l in open(os.getenv("EVAL_FILE", "data/eval/questions.jsonl"))]
 r = Retriever()
 r.search("warmup", MODE, 1)   # load models before timing
 
